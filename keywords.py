@@ -55,7 +55,7 @@ def keywords_search_v2(df):
     unnecessary_words = get_list_of_unnecessary_words()
     
     # I really have no idea sometimes realtive path just works and somstimes not - it's VSC issue
-    exceptions = pd.read_csv("/home/michal/Documents/Python/scraping/test/crawling/data/exceptions_keywords.csv")
+    exceptions = pd.read_csv("api/exceptions_keywords.csv")
 
     list_of_political_parites = ["pis","psl","205"]
 
@@ -157,7 +157,6 @@ if __name__ != "__main__":
     df_tvn = keywords_search_v2(df_tvn).sort_values(by=['number'],ascending=False).head(100)
     df_tvp = keywords_search_v2(df_tvp).sort_values(by=['number'],ascending=False).head(100)
 
-    df_tvn.to_csv("/home/michal/Documents/Python/scraping/test/crawling/data/tvn_key_words.csv")
-    df_tvp.to_csv("/home/michal/Documents/Python/scraping/test/crawling/data/tvp_key_words.csv")
-
+    df_tvn.to_csv("api/tvn_key_words.csv")
+    df_tvp.to_csv("api/tvp_key_words.csv")
 

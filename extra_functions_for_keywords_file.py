@@ -20,7 +20,7 @@ def clean_punctuation(i):
 
 #Those are just unesssary words that would flood the final results - conjunctions etc.
 def get_list_of_unnecessary_words():
-    df = pd.read_csv('/home/michal/Documents/Python/scraping/test/crawling/data/words.csv', delimiter=',')
+    df = pd.read_csv('api/words.csv', delimiter=',')
 
     list_of_words = list(df.columns)
 
