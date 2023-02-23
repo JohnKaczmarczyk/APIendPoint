@@ -1,0 +1,32 @@
+[
+    {
+        "headline": "policja",
+        "first_cell": "40",
+        "second_cell": "58",
+        "other_words": "policjanta,policjanci,policjantów,policja"
+    },
+    {
+        "headline": "ukrainy",
+        "first_cell": "75",
+        "second_cell": "122",
+        "other_words": "ukrainy,ukraińców,ukraińskie"
+    },
+    {
+        "headline": "rosjan",
+        "first_cell": "58",
+        "second_cell": "100",
+        "other_words": "rosyjski,rosyjscy,rosyjskich,rosjanie"
+    },
+    {
+        "headline": "pis",
+        "first_cell": "23",
+        "second_cell": "21",
+        "other_words": "None"
+    },
+    {
+        "headline": "tuska",
+        "first_cell": "2",
+        "second_cell": "49",
+        "other_words": "tusk,tuska"
+    }
+]
