@@ -29,18 +29,19 @@ conn.autocommit = True
 cursor = conn.cursor()
 
 
-def number_of_days_in_month(year=2023, month=2):
+def number_of_days_in_month(year=2023, month=month):
     return monthrange(year, month)[1]
 
 
 
 # archive update
 
+
 list_of_objs = [[],[]]
 
 with open("//media/pi/KINGSTON/api/number.json") as f:
     f = json.load(f)
-    month = f["number"]
+    #month = f["number"]
 
     date = f"{year}-{month}-{int(number_of_days_in_month(year, int(month)))}"
     date2 = f"{year}-{month}-{1}"
