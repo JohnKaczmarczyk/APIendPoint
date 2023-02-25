@@ -68,3 +68,14 @@ with open(f"//media/pi/KINGSTON/api/{month}.json", 'w') as f:
 #add_key_to_db.py
 import r_data
 
+
+with open("//media/pi/KINGSTON/api/counter.json") as f:
+    f = json.load(f)
+    cc= f["counter"]
+
+
+cc += 1
+list_of_objs = {"counter": cc }
+with open(f"//media/pi/KINGSTON/api/counter.json", 'w') as f:
+    json.dump(list_of_objs, f, ensure_ascii=False)
+
