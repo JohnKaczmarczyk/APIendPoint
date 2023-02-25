@@ -26,7 +26,7 @@ df_tvn = pd.read_csv("//media/pi/KINGSTON/api/tvn_key_words.csv")
 df_tvp = pd.read_csv("//media/pi/KINGSTON/api/tvp_key_words.csv")
 
 
-df = pd.read_csv('api/chosen_key_words.csv', delimiter=',')
+df = pd.read_csv('//media/pi/KINGSTON/api/chosen_key_words.csv', delimiter=',')
 list_of_words = list(df.columns)
 
 
