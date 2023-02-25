@@ -38,5 +38,5 @@ for j,i in enumerate(result_tvn):
 json_object = json.dumps(dic, indent=4 , ensure_ascii=False)
  
 
-with open("/media/pi/KINGSTON/api/key_words.json", "w") as outfile:
+with open("//media/pi/KINGSTON/api/key_words.json", "w") as outfile:
    outfile.write(json_object)

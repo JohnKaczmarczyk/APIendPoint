@@ -1,1 +1,32 @@
-[{"headline": "policja", "first_cell": "TVN: 15", "second_cell": "TVP: 10"}, {"headline": "ukraina", "first_cell": "TVN: 6", "second_cell": "TVP: 15"}, {"headline": "rosja", "first_cell": "TVN: 9", "second_cell": "TVP: 16"}, {"headline": "pis", "first_cell": "TVN: 7", "second_cell": "TVP: 2"}, {"headline": "tuska", "first_cell": "TVN: 2", "second_cell": "TVP: 11"}]
+[
+    {
+        "headline": "policja",
+        "first_cell": "40",
+        "second_cell": "58",
+        "other_words": "policjanta,policjanci,policjantów,policja"
+    },
+    {
+        "headline": "ukrainy",
+        "first_cell": "75",
+        "second_cell": "122",
+        "other_words": "ukrainy,ukraińców,ukraińskie"
+    },
+    {
+        "headline": "rosjan",
+        "first_cell": "58",
+        "second_cell": "100",
+        "other_words": "rosyjski,rosyjscy,rosyjskich,rosjanie"
+    },
+    {
+        "headline": "pis",
+        "first_cell": "23",
+        "second_cell": "21",
+        "other_words": "None"
+    },
+    {
+        "headline": "tuska",
+        "first_cell": "2",
+        "second_cell": "49",
+        "other_words": "tusk,tuska"
+    }
+]

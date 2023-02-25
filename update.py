@@ -38,7 +38,7 @@ def number_of_days_in_month(year=2023, month=2):
 
 list_of_objs = [[],[]]
 
-with open("api/number.json") as f:
+with open("//media/pi/KINGSTON/api/number.json") as f:
     f = json.load(f)
     month = f["number"]
 
@@ -60,7 +60,7 @@ for i in tvp:
     list_of_objs[1].append(i[1])
 
 
-with open(f"api/{month}.json", 'w') as f:
+with open(f"//media/pi/KINGSTON/api/{month}.json", 'w') as f:
     json.dump(list_of_objs, f, ensure_ascii=False)
 
 
