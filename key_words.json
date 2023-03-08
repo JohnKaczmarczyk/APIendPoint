@@ -1,7 +1,7 @@
 [
     {
         "headline": "policja",
-        "first_cell": "43",
+        "first_cell": "44",
         "second_cell": "65",
         "other_words": "policjanta,policjanci,policjantów,policja"
     },
@@ -13,8 +13,8 @@
     },
     {
         "headline": "rosjan",
-        "first_cell": "88",
-        "second_cell": "129",
+        "first_cell": "89",
+        "second_cell": "130",
         "other_words": "rosyjski,rosyjscy,rosyjskich,rosjanie"
     },
     {
@@ -26,7 +26,7 @@
     {
         "headline": "tuska",
         "first_cell": "2",
-        "second_cell": "80",
+        "second_cell": "83",
         "other_words": "tusk,tuska"
     }
 ]
