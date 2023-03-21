@@ -2,7 +2,7 @@
     {
         "headline": "policja",
         "first_cell": "49",
-        "second_cell": "72",
+        "second_cell": "73",
         "other_words": "policjanta,policjanci,policjantów,policja"
     },
     {
@@ -13,20 +13,20 @@
     },
     {
         "headline": "rosjan",
-        "first_cell": "114",
-        "second_cell": "158",
+        "first_cell": "115",
+        "second_cell": "160",
         "other_words": "rosyjski,rosyjscy,rosyjskich,rosjanie"
     },
     {
         "headline": "pis",
         "first_cell": "41",
-        "second_cell": "34",
+        "second_cell": "35",
         "other_words": "None"
     },
     {
         "headline": "tuska",
         "first_cell": "2",
-        "second_cell": "95",
+        "second_cell": "98",
         "other_words": "tusk,tuska"
     }
 ]
