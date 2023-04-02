@@ -8,12 +8,12 @@
     {
         "headline": "ukrainy",
         "first_cell": "109",
-        "second_cell": "175",
+        "second_cell": "177",
         "other_words": "ukrainy,ukraińców,ukraińskie"
     },
     {
         "headline": "rosjan",
-        "first_cell": "134",
+        "first_cell": "136",
         "second_cell": "179",
         "other_words": "rosyjski,rosyjscy,rosyjskich,rosjanie"
     },
@@ -26,7 +26,7 @@
     {
         "headline": "tuska",
         "first_cell": "2",
-        "second_cell": "111",
+        "second_cell": "112",
         "other_words": "tusk,tuska"
     }
 ]
