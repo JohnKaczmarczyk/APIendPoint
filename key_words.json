@@ -7,26 +7,26 @@
     },
     {
         "headline": "ukrainy",
-        "first_cell": "125",
-        "second_cell": "205",
+        "first_cell": "126",
+        "second_cell": "207",
         "other_words": "ukrainy,ukraińców,ukraińskie"
     },
     {
         "headline": "rosjan",
-        "first_cell": "156",
-        "second_cell": "216",
+        "first_cell": "157",
+        "second_cell": "218",
         "other_words": "rosyjski,rosyjscy,rosyjskich,rosjanie"
     },
     {
         "headline": "pis",
-        "first_cell": "57",
+        "first_cell": "58",
         "second_cell": "50",
         "other_words": "None"
     },
     {
         "headline": "tuska",
         "first_cell": "2",
-        "second_cell": "121",
+        "second_cell": "124",
         "other_words": "tusk,tuska"
     }
 ]
