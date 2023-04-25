@@ -2,19 +2,19 @@
     {
         "headline": "policja",
         "first_cell": "71",
-        "second_cell": "93",
+        "second_cell": "95",
         "other_words": "policjanta,policjanci,policjantów,policja"
     },
     {
         "headline": "ukrainy",
-        "first_cell": "135",
+        "first_cell": "136",
         "second_cell": "220",
         "other_words": "ukrainy,ukraińców,ukraińskie"
     },
     {
         "headline": "rosjan",
-        "first_cell": "166",
-        "second_cell": "231",
+        "first_cell": "169",
+        "second_cell": "233",
         "other_words": "rosyjski,rosyjscy,rosyjskich,rosjanie"
     },
     {
@@ -26,7 +26,7 @@
     {
         "headline": "tuska",
         "first_cell": "2",
-        "second_cell": "129",
+        "second_cell": "131",
         "other_words": "tusk,tuska"
     }
 ]
