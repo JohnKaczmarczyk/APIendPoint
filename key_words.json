@@ -1,25 +1,25 @@
 [
     {
         "headline": "policja",
-        "first_cell": "72",
-        "second_cell": "99",
+        "first_cell": "73",
+        "second_cell": "100",
         "other_words": "policjanta,policjanci,policjantów,policja"
     },
     {
         "headline": "ukrainy",
-        "first_cell": "139",
-        "second_cell": "227",
+        "first_cell": "141",
+        "second_cell": "229",
         "other_words": "ukrainy,ukraińców,ukraińskie"
     },
     {
         "headline": "rosjan",
-        "first_cell": "176",
-        "second_cell": "246",
+        "first_cell": "179",
+        "second_cell": "249",
         "other_words": "rosyjski,rosyjscy,rosyjskich,rosjanie"
     },
     {
         "headline": "pis",
-        "first_cell": "67",
+        "first_cell": "68",
         "second_cell": "55",
         "other_words": "None"
     },
